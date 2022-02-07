@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn client_tracker_backend.wsgi
